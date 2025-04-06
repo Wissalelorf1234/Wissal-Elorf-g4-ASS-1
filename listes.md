@@ -18,7 +18,7 @@ kernelspec:
 ```{admonition} Définition
 
 Une liste est une collection ordonnée de valeurs.
-Dans une liste, chaque valeur occupe une position bien définie que l'on repère par un entier appelé **indice**.
+Dans une ggliste, chaque valeur occupe une position bien définie que l'on repère par un entier appelé **indice**.
 La première valeur est associée à l'indice 0, la seconde à l'indice 1, _etc._
 Une liste a une longueur (_i.e._ un nombre d'éléments) finie, ainsi la liste vide a pour longueur 0.
 ```
